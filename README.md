@@ -20,5 +20,5 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 8. **Best Practices and Tips:** Adopt industry best practices and time-saving Git tricks.
 9. **Practice and Projects:** Apply your knowledge through coding projects and open-source contributions.
 10. **Community and Resources:** Engage with online communities, forums, and additional learning resources.
-11. **Git and Github :** interview questions. 
+11. **Git and Github :** Interview questions. 
 12. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
