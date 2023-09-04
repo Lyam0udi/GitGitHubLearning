@@ -21,7 +21,8 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 11. [Practice and Projects](#practice-and-projects)
 12. [Community and Resources](#community-and-resources)
 13. [Git and GitHub Interview Questions](#git-and-github-interview-questions)
-14. [Conclusion and Future Goals](#conclusion-and-future-goals)
+14. [Github Copilot](#github-copilot) 
+15. [Conclusion and Future Goals](#conclusion-and-future-goals)
 
 ## Course Structure
 
@@ -36,8 +37,9 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 9. **Best Practices and Tips:** Adopt industry best practices and time-saving Git tricks.
 10. **Practice and Projects:** Apply your knowledge through coding projects and open-source contributions.
 11. **Community and Resources:** Engage with online communities, forums, and additional learning resources.
-12. **Git and Github :** Interview questions. 
-13. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
+12. **Git and Github :** Interview questions.
+13. **Github Copilot:** an AI pair programmer that helps you write code faster and with less work. 
+14. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
 
 ## Introduction
 
