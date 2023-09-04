@@ -65,5 +65,8 @@ The main difference between **Git and GitHub** lies in their nature and function
 
 In this course, you will not only delve deep into the fundamental concepts of Git but also harness the power of GitHub for effective collaboration, project management, and automation. Get ready to explore Git and GitHub, sharpen your version control skills, and dive into the world of modern software development practices.
 
-![Gitvs_Github](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/897aa006-9f5a-4a90-9884-693d504a85af)
+<div align="center">
+  <img src="https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/897aa006-9f5a-4a90-9884-693d504a85af" alt="Git vs. GitHub">
+</div>
+
 
