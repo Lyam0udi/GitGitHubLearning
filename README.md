@@ -10,7 +10,7 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 
 # Course Structure
 
-1. Introduction: Get acquainted with the course objectives and the significance of Git and GitHub in modern software development.
+1. *Introduction*: Get acquainted with the course objectives and the significance of Git and GitHub in modern software development.
 2. Installation and Setup: Learn how to install Git, set up your user information, and create a GitHub account.
 3. Git Fundamentals: Dive into the core Git commands, repository creation, and version control concepts.
 4. Branching and Merging: Explore branching strategies and merging techniques for efficient collaboration.
