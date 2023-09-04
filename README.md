@@ -11,31 +11,33 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 1. [Course Structure](#course-structure)
 2. [Introduction](#introduction)
 3. [Installation and Setup](#installation-and-setup)
-4. [Git Fundamentals](#git-fundamentals)
-5. [Branching and Merging](#branching-and-merging)
-6. [Collaboration](#collaboration)
-7. [Advanced Git Topics](#advanced-git-topics)
-8. [GitHub Features](#github-features)
-9. [Best Practices and Tips](#best-practices-and-tips)
-10. [Practice and Projects](#practice-and-projects)
-11. [Community and Resources](#community-and-resources)
-12. [Git and GitHub Interview Questions](#git-and-github-interview-questions)
-13. [Conclusion and Future Goals](#conclusion-and-future-goals)
+4. [How Git Works](#how-git-works)
+5. [Git Fundamentals](#git-fundamentals)
+6. [Branching and Merging](#branching-and-merging)
+7. [Collaboration](#collaboration)
+8. [Advanced Git Topics](#advanced-git-topics)
+9. [GitHub Features](#github-features)
+10. [Best Practices and Tips](#best-practices-and-tips)
+11. [Practice and Projects](#practice-and-projects)
+12. [Community and Resources](#community-and-resources)
+13. [Git and GitHub Interview Questions](#git-and-github-interview-questions)
+14. [Conclusion and Future Goals](#conclusion-and-future-goals)
 
 ## Course Structure
 
 1. **Introduction:** Get acquainted with the course objectives and the significance of Git and GitHub in modern software development.
 2. **Installation and Setup:** Learn how to install Git, set up your user information, and create a GitHub account.
-3. **Git Fundamentals:** Dive into the core Git commands, repository creation, and version control concepts.
-4. **Branching and Merging:** Explore branching strategies and merging techniques for efficient collaboration.
-5. **Collaboration:** Discover the power of pull requests, forks, and effective teamwork using GitHub.
-6. **Advanced Git Topics:** Master advanced Git concepts, including rebasing and conflict resolution.
-7. **GitHub Features:** Harness GitHub's project management, issue tracking, and automation capabilities.
-8. **Best Practices and Tips:** Adopt industry best practices and time-saving Git tricks.
-9. **Practice and Projects:** Apply your knowledge through coding projects and open-source contributions.
-10. **Community and Resources:** Engage with online communities, forums, and additional learning resources.
-11. **Git and Github :** Interview questions. 
-12. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
+3. **How Git Works:** Learn the architecture of how the Git works: Working Directory, Staging Area, Commit History and The Remote Server.
+4. **Git Fundamentals:** Dive into the core Git commands, repository creation, and version control concepts.
+5. **Branching and Merging:** Explore branching strategies and merging techniques for efficient collaboration.
+6. **Collaboration:** Discover the power of pull requests, forks, and effective teamwork using GitHub.
+7. **Advanced Git Topics:** Master advanced Git concepts, including rebasing and conflict resolution.
+8. **GitHub Features:** Harness GitHub's project management, issue tracking, and automation capabilities.
+9. **Best Practices and Tips:** Adopt industry best practices and time-saving Git tricks.
+10. **Practice and Projects:** Apply your knowledge through coding projects and open-source contributions.
+11. **Community and Resources:** Engage with online communities, forums, and additional learning resources.
+12. **Git and Github :** Interview questions. 
+13. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
 
 ## Introduction
 
