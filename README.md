@@ -6,9 +6,23 @@ Welcome to the "Git and GitHub Learning Journey" README! This document serves as
 
 In this course, you will embark on a structured path to mastering Git and GitHub, essential tools for version control and collaboration in software development. You will explore topics ranging from the basics of Git commands to advanced GitHub features and best practices.
 
-# Table of content 
+## Table of Contents
 
-# Course Structure
+1. [Course Structure](#course-structure)
+2. [Introduction](#introduction)
+3. [Installation and Setup](#installation-and-setup)
+4. [Git Fundamentals](#git-fundamentals)
+5. [Branching and Merging](#branching-and-merging)
+6. [Collaboration](#collaboration)
+7. [Advanced Git Topics](#advanced-git-topics)
+8. [GitHub Features](#github-features)
+9. [Best Practices and Tips](#best-practices-and-tips)
+10. [Practice and Projects](#practice-and-projects)
+11. [Community and Resources](#community-and-resources)
+12. [Git and GitHub Interview Questions](#git-and-github-interview-questions)
+13. [Conclusion and Future Goals](#conclusion-and-future-goals)
+
+## Course Structure
 
 1. **Introduction:** Get acquainted with the course objectives and the significance of Git and GitHub in modern software development.
 2. **Installation and Setup:** Learn how to install Git, set up your user information, and create a GitHub account.
@@ -22,3 +36,4 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 10. **Community and Resources:** Engage with online communities, forums, and additional learning resources.
 11. **Git and Github :** Interview questions. 
 12. **Conclusion and Future Goals:** Reflect on your learning journey, set future goals, and keep improving your Git and GitHub skills.
+
