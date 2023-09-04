@@ -1,7 +1,7 @@
 # Git and GitHub Learning Journey
 
 Welcome to the "Git and GitHub Learning Journey" README! This document serves as a comprehensive course guide and progress tracker for your learning adventure in the world of Git and GitHub.
-
+![git-githubLogos](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/f10dd5c9-aaf3-4200-b464-c1e936c5739c)
 
 
 # What to Expect
@@ -64,3 +64,6 @@ The main difference between **Git and GitHub** lies in their nature and function
 - **GitHub**, on the other hand, is a cloud-based platform that leverages Git. It adds a layer of collaboration and hosting to your Git repositories. GitHub allows you to store your Git repositories online, collaborate with others in a centralized manner, and access a range of features for project management and code sharing. GitHub is a web service accessible from any device with an internet connection.
 
 In this course, you will not only delve deep into the fundamental concepts of Git but also harness the power of GitHub for effective collaboration, project management, and automation. Get ready to explore Git and GitHub, sharpen your version control skills, and dive into the world of modern software development practices.
+
+![Gitvs_Github](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/897aa006-9f5a-4a90-9884-693d504a85af)
+
