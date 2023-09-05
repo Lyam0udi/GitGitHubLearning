@@ -172,3 +172,9 @@ After you've completed your work on a branch, you may want to integrate those ch
 To merge a branch into another, use the following commands: 
 1. First, switch to the branch where you want to merge the changes into (e.g., the "master" branch). ```git checkout <target_branch>```
 2. Then, merge the source branch (e.g., "feature-branch") into the target branch. ```git merge <source_branch>```
+   
+NB : Git will automatically combine the changes made in the source branch into the target branch, creating a new merge commit if necessary.
+
+### Resolving Conflicts
+
+In some cases, Git may encounter **merge conflicts** when it can't automatically merge changes. Merge conflicts occur when multiple branches modify the same part of a file. Resolving conflicts involves manually choosing which changes to keep.
