@@ -169,4 +169,6 @@ Once you're on a branch, you can make changes to your project as needed. Commits
 
 After you've completed your work on a branch, you may want to integrate those changes back into the main branch (often called the "master" branch). This process is called **merging**.
 
-To merge a branch into another, use the following commands: ``````
+To merge a branch into another, use the following commands: 
+1. First, switch to the branch where you want to merge the changes into (e.g., the "master" branch). ```git checkout <target_branch>```
+2. Then, merge the source branch (e.g., "feature-branch") into the target branch. ```git merge <source_branch>```
