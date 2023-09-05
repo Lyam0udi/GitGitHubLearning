@@ -100,3 +100,16 @@ Next, let's dive into Git fundamentals and start using Git to manage your projec
 Welcome to the "Git Fundamentals" section of the course. In this part, we'll explore the core Git concepts and commands that are crucial for effective version control and collaboration.
 
 ### Key Git Concepts
+
+Before diving into Git commands, let's familiarize ourselves with some key concepts:
+
+1. **Repository (Repo):** A Git repository is a container for your project. It stores all the project's files, commit history, and related data. Repositories can be either local (on your computer) or remote (hosted on platforms like GitHub).
+
+2. **Commit:** A commit is a snapshot of your project at a specific point in time. It records changes you've made to your files. Commits come with a commit message that describes the changes, making it easier to understand the project's history.
+
+3. **Branch:** A branch is a separate line of development within a repository. You can create branches to work on new features, bug fixes, or experiments independently. Once your changes are complete, you can merge them back into the main branch.
+
+4. **Clone:** Cloning a repository means creating a copy of it on your local machine. This is how you start working on a project hosted on a remote server like GitHub. Cloning allows you to work on the project locally and synchronize changes with the remote repository.
+
+5. **Push and Pull:** Pushing involves sending your local commits to a remote repository, making your changes available to others. Pulling is the process of fetching changes from a remote repository and merging them into your local branch.
+
