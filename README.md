@@ -75,3 +75,8 @@ In this course, you will not only delve deep into the fundamental concepts of Gi
 
 In this section, we will delve into the fundamental architecture of Git and understand how it operates. Having a clear grasp of how Git works internally will empower you to use it effectively in your software development journey.
 
+### Git Architecture
+
+Git's architecture can be divided into several key components:
+
+
