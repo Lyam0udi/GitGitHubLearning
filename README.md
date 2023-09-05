@@ -113,3 +113,19 @@ Before diving into Git commands, let's familiarize ourselves with some key conce
 
 5. **Push and Pull:** Pushing involves sending your local commits to a remote repository, making your changes available to others. Pulling is the process of fetching changes from a remote repository and merging them into your local branch.
 
+### Basic Git Commands
+
+Here are some fundamental Git commands you'll frequently use:
+
+- `git init`: Initialize a new Git repository in your project directory.
+- `git clone <repository_url>`: Clone a remote repository to your local machine.
+- `git add <file>`: Stage changes for the next commit. You can specify individual files or use `git add .` to stage all changes.
+- `git commit -m "Commit message"`: Create a new commit with a descriptive message.
+- `git status`: Check the status of your working directory, including changes that are staged or not.
+- `git log`: View the commit history of the current branch.
+- `git branch`: List all branches in the repository, with the current branch highlighted.
+- `git checkout <branch_name>`: Switch to a different branch.
+- `git merge <branch_name>`: Merge changes from one branch into another.
+- `git pull`: Fetch changes from a remote repository and automatically merge them into the current branch.
+- `git push`: Send your local commits to a remote repository.
+
