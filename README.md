@@ -73,6 +73,10 @@ In this course, you will not only delve deep into the fundamental concepts of Gi
 
 ## How Git Works
 
+### Git Architecture
+
+Git's architecture can be divided into several key components:
+
 In this section, we will delve into the fundamental architecture of Git and understand how it operates. Having a clear grasp of how Git works internally will empower you to use it effectively in your software development journey.
 
 1. **Working Directory:** This is the directory on your local machine where you create, edit, and organize your project files. It represents the current state of your project.
@@ -83,9 +87,13 @@ In this section, we will delve into the fundamental architecture of Git and unde
 
 4. **The Remote Server:** In collaborative development scenarios, Git repositories can be hosted on remote servers like GitHub, GitLab, or Bitbucket. Developers can push and pull changes between their local repositories and the remote server to collaborate with team members.
 
+[ImageArchitecture]
 
-### Git Architecture
+Understanding these components and how they interact is essential for effectively using Git to manage your project's version history. We'll explore these aspects in detail throughout this course.
 
-Git's architecture can be divided into several key components:
+By the end of this section, you'll have a solid understanding of Git's inner workings, setting the foundation for mastering Git commands and workflows in subsequent lessons.
+
+Next, let's dive into Git fundamentals and start using Git to manage your projects effectively.
+
 
 
