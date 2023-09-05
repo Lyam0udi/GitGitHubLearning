@@ -178,3 +178,13 @@ NB : Git will automatically combine the changes made in the source branch into t
 ### Resolving Conflicts
 
 In some cases, Git may encounter **merge conflicts** when it can't automatically merge changes. Merge conflicts occur when multiple branches modify the same part of a file. Resolving conflicts involves manually choosing which changes to keep.
+
+To resolve a merge conflict:
+1. Git will mark the conflicting sections in the affected files. Open these files in your text editor.
+2. Manually edit the files to keep the changes you want.
+3. After resolving the conflicts, save the files.
+4. Use `git add <file>` to stage the resolved files.
+5. Finally, commit the changes to complete the merge process.
+
+### Best Practices
+Here are some best practices for branching and merging:
