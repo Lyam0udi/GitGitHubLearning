@@ -144,3 +144,4 @@ A typical version control workflow involves the following steps:
 Throughout this section, we'll walk you through these steps and help you build confidence in using Git for your projects. Git is a powerful tool that enables you to track changes, collaborate effectively, and manage your codebase efficiently.
 
 Next, let's dive into branching and merging, a fundamental aspect of Git that facilitates collaborative development.
+
