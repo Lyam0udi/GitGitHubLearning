@@ -75,6 +75,15 @@ In this course, you will not only delve deep into the fundamental concepts of Gi
 
 In this section, we will delve into the fundamental architecture of Git and understand how it operates. Having a clear grasp of how Git works internally will empower you to use it effectively in your software development journey.
 
+1. **Working Directory:** This is the directory on your local machine where you create, edit, and organize your project files. It represents the current state of your project.
+
+2. **Staging Area (Index):** The staging area acts as a buffer between your working directory and the commit history. It allows you to select and prepare changes for the next commit. Think of it as a snapshot of what you intend to include in your next commit.
+
+3. **Commit History (Repository):** The commit history is a chronological record of all the changes made to your project. Each commit represents a snapshot of the project at a specific point in time. Commits are organized in a tree-like structure, enabling you to navigate through the project's history.
+
+4. **The Remote Server:** In collaborative development scenarios, Git repositories can be hosted on remote servers like GitHub, GitLab, or Bitbucket. Developers can push and pull changes between their local repositories and the remote server to collaborate with team members.
+
+
 ### Git Architecture
 
 Git's architecture can be divided into several key components:
