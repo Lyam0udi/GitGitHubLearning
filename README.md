@@ -95,5 +95,8 @@ By the end of this section, you'll have a solid understanding of Git's inner wor
 
 Next, let's dive into Git fundamentals and start using Git to manage your projects effectively.
 
+## Git Fundamentals
 
+Welcome to the "Git Fundamentals" section of the course. In this part, we'll explore the core Git concepts and commands that are crucial for effective version control and collaboration.
 
+### Key Git Concepts
