@@ -129,3 +129,18 @@ Here are some fundamental Git commands you'll frequently use:
 - `git pull`: Fetch changes from a remote repository and automatically merge them into the current branch.
 - `git push`: Send your local commits to a remote repository.
 
+### Version Control Workflow
+
+A typical version control workflow involves the following steps:
+
+1. Create or clone a repository.
+2. Make changes to your project files.
+3. Stage changes using `git add`.
+4. Commit changes with a meaningful commit message using `git commit`.
+5. Optionally, create and switch to a new branch for new features or bug fixes.
+6. Merge branches when work is complete.
+7. Push commits to a remote repository for collaboration.
+
+Throughout this section, we'll walk you through these steps and help you build confidence in using Git for your projects. Git is a powerful tool that enables you to track changes, collaborate effectively, and manage your codebase efficiently.
+
+Next, let's dive into branching and merging, a fundamental aspect of Git that facilitates collaborative development.
