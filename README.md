@@ -210,6 +210,15 @@ A **pull request (PR)** is a fundamental mechanism for proposing and discussing 
 
 ### Forking
 
+Forking is the process of creating your own copy of a repository. Forking is often used when you want to contribute to an open-source project hosted on GitHub. Here's how the process works:
+
+1. You fork the original repository to create your own copy on your GitHub account.
+2. You clone your forked repository to your local machine.
+3. You make changes, create branches, and commit your work within your fork.
+4. When you're ready to contribute your changes back to the original project, you submit a pull request from your fork to the original repository.
+
+Forking ensures that the original project's maintainers have control over what changes are merged while still allowing contributors to propose improvements.
+
 ### Effective Teamwork
 
 ### GitHub Features for Collaboration
