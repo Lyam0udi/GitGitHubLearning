@@ -231,4 +231,11 @@ Collaborating effectively with Git and GitHub involves the following practices:
 
 ### GitHub Features for Collaboration
 
+GitHub offers a range of features to enhance collaboration, including:
+
+- **Issues:** Use GitHub Issues to track and manage tasks, bugs, and feature requests. Issues can be assigned to team members and linked to pull requests for seamless project management.
+- **Project Boards:** Create project boards to visualize and prioritize tasks. Project boards can include columns for different stages of work, making it easier to track progress.
+- **Actions:** Automate workflows with GitHub Actions. You can set up custom actions to run tests, deploy code, and perform other tasks automatically.
+- **Discussions:** GitHub Discussions provides a space for open conversations around your project. It's a great place for community engagement and support.
+
 ### Best Practices
