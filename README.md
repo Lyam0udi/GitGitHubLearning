@@ -45,11 +45,11 @@ In this course, you will embark on a structured path to mastering Git and GitHub
 
 ## Introduction
 
-Welcome to the "Git and GitHub Learning Journey"! In this comprehensive course, you will embark on an exciting adventure into the world of Git and GitHub, two essential tools in the realm of version control and collaborative software development.
+Welcome to the **"Git and GitHub Learning Journey"**! In this comprehensive course, you will embark on an exciting adventure into the world of Git and GitHub, two essential tools in the realm of version control and collaborative software development.
 
 ### What is Git?
 
-**Git** is a distributed version control system that helps developers track changes in their codebase over time. It allows you to create snapshots of your project, making it easy to collaborate with others, manage different versions, and seamlessly handle code changes. Git is primarily a command-line tool that runs locally on your computer.
+**Git** is a distributed version control system that helps developers **track changes** in their codebase over time. It allows you to **create snapshots** of your project, making it easy to **collaborate with others**, **manage different versions**, and seamlessly **handle code changes**. Git is primarily a command-line tool that runs locally on your computer.
 
 ### What is GitHub?
 
