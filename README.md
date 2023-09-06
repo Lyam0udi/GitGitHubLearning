@@ -200,4 +200,12 @@ Branching and merging are fundamental to collaborative Git workflows. They allow
 
 Collaboration is a cornerstone of software development, and Git and GitHub provide powerful tools to facilitate teamwork and effective code collaboration. In this section, we'll explore key concepts and workflows related to collaboration using Git and GitHub.
 
+### Pull Requests
 
+### Forking
+
+### Effective Teamwork
+
+### GitHub Features for Collaboration
+
+### Best Practices
