@@ -202,6 +202,12 @@ Collaboration is a cornerstone of software development, and Git and GitHub provi
 
 ### Pull Requests
 
+A **pull request (PR)** is a fundamental mechanism for proposing and discussing changes in a Git repository. It allows developers to request that their changes be reviewed and merged into the main branch of the project. Pull requests are commonly used for:
+
+- **Introducing New Features:** Developers create feature branches, implement new functionality, and then submit pull requests to merge these features into the main branch.
+- **Fixing Bugs:** When a bug is identified, developers can create a branch to fix it and submit a pull request to ensure the bug fix is reviewed and tested before merging.
+- **Code Reviews:** Pull requests provide a platform for peer review, where team members can provide feedback, suggest improvements, and discuss code changes before they are merged.
+
 ### Forking
 
 ### Effective Teamwork
