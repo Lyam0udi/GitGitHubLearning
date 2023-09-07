@@ -325,13 +325,15 @@ GitHub provides a rich ecosystem of features and tools that enhance the collabor
 
 - **Pull Requests:** Submit pull requests to propose and review code changes, facilitating collaborative development.
 
+### Project Boards
+
+**Project Boards** provide a visual way to manage your work. You can create custom boards to organize tasks, track progress, and prioritize work items. Project boards help streamline project management and keep your team aligned.
+
+
 ----------
 
 
 
-### Project Boards
-
-**Project Boards** provide a visual way to manage your work. You can create custom boards to organize tasks, track progress, and prioritize work items. Project boards help streamline project management and keep your team aligned.
 
 ### Actions
 
