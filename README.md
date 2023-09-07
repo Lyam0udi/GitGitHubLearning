@@ -267,3 +267,12 @@ Key points to explore:
 - **Selecting Commits:** Learn how to identify and choose the commits you want to cherry-pick into another branch.
 - **Applying Commits:** Apply selected commits to your current branch while maintaining the commit message and changes.
 
+### Git Workflows
+
+Advanced Git workflows offer strategies for managing complex development scenarios. We'll cover some popular Git workflows, including:
+
+- **Feature Branch Workflow:** An extension of the basic branching and merging strategy, this workflow encourages creating dedicated branches for each feature or bug fix.
+- **Gitflow Workflow:** A branching model that defines specific branch types and their purposes, making it easier to manage releases, hotfixes, and feature development.
+- **GitOps Workflow:** A modern approach to using Git for managing infrastructure and deployments. Explore how GitOps principles can streamline DevOps practices.
+
+
