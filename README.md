@@ -1,4 +1,4 @@
-# Git and GitHub Learning Journey
+  # Git and GitHub Learning Journey
 
 Welcome to the "Git and GitHub Learning Journey" README! This document serves as a comprehensive course guide and progress tracker for your learning adventure in the world of Git and GitHub.
 ![git-githubLogos](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/f10dd5c9-aaf3-4200-b464-c1e936c5739c)
@@ -376,11 +376,3 @@ As you explore and use GitHub features, keep these best practices in mind:
 - **Community Engagement:** Encourage community engagement through discussions and create a welcoming environment for contributors and users.
 
 GitHub's feature set empowers developers and project maintainers to efficiently manage code, collaborate seamlessly, and automate workflows. Incorporating these features into your development process can lead to more productive and efficient software projects.
-
-
-
-
-
-
-
-
