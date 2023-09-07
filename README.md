@@ -275,4 +275,12 @@ Advanced Git workflows offer strategies for managing complex development scenari
 - **Gitflow Workflow:** A branching model that defines specific branch types and their purposes, making it easier to manage releases, hotfixes, and feature development.
 - **GitOps Workflow:** A modern approach to using Git for managing infrastructure and deployments. Explore how GitOps principles can streamline DevOps practices.
 
+### Conflict Resolution Strategies
+
+As projects grow and involve multiple contributors, conflicts can arise when merging or rebasing branches. Learn advanced conflict resolution strategies, including:
+
+- **Conflict Analysis:** Understand the root causes of conflicts and how to analyze them effectively.
+- **Manual Conflict Resolution:** Dive into manual conflict resolution techniques, allowing you to resolve complex conflicts with precision.
+- **Conflict-Free Development:** Strategies for reducing the likelihood of conflicts through effective branch management and communication.
+
 
