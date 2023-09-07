@@ -313,8 +313,6 @@ Advanced Git topics are essential for tackling complex projects and collaboratin
 
 GitHub provides a rich ecosystem of features and tools that enhance the collaborative development experience. In this section, we'll explore some of GitHub's standout features that can streamline project management, automation, and collaboration.
 
-----------
-
 ### Repositories
 
 **Repositories** are at the heart of GitHub. They serve as containers for your projects, allowing you to organize, version, and collaborate on code and other assets. Key features of GitHub repositories include:
@@ -326,6 +324,10 @@ GitHub provides a rich ecosystem of features and tools that enhance the collabor
 - **Issues:** GitHub Issues help you track and manage tasks, bugs, and feature requests. They are tightly integrated with your code and can be assigned to team members.
 
 - **Pull Requests:** Submit pull requests to propose and review code changes, facilitating collaborative development.
+
+----------
+
+
 
 ### Project Boards
 
