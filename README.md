@@ -251,4 +251,12 @@ Collaboration is a vital aspect of modern software development, and mastering th
 
 In the world of Git, there's always more to explore and master. In this section, we'll dive into advanced Git topics that will elevate your version control skills and enable you to handle complex scenarios with confidence.
 
+### Rebasing
+
+**Rebasing** is a powerful technique used to incorporate changes from one branch into another. Unlike merging, which creates a new merge commit, rebasing replays the commits from one branch onto another. This results in a linear commit history and is often used to keep feature branches up-to-date with the latest changes from the main branch.
+
+Key concepts of rebasing include:
+- **Interactive Rebasing:** With interactive rebasing, you can modify, squash, or reorganize commits to create a clean and meaningful commit history.
+- **Rebasing vs. Merging:** Understand when to use rebasing and when to use merging to maintain a coherent project history.
+
 
