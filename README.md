@@ -329,12 +329,6 @@ GitHub provides a rich ecosystem of features and tools that enhance the collabor
 
 **Project Boards** provide a visual way to manage your work. You can create custom boards to organize tasks, track progress, and prioritize work items. Project boards help streamline project management and keep your team aligned.
 
-
-----------
-
-
-
-
 ### Actions
 
 **GitHub Actions** is a powerful automation tool that allows you to build, test, and deploy your code directly from your repository. With Actions, you can set up workflows that automate repetitive tasks, making your development process more efficient.
@@ -350,6 +344,16 @@ Key use cases for GitHub Actions include:
 ### Discussions
 
 **GitHub Discussions** provides a space for open conversations around your project. It's an ideal platform for community engagement, support, and collaboration. Discussions can help foster a sense of community around your project and provide a space for users and contributors to ask questions and share ideas.
+
+
+----------
+
+
+
+
+
+
+
 
 ### Gists
 
