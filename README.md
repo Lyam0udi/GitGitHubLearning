@@ -345,19 +345,15 @@ Key use cases for GitHub Actions include:
 
 **GitHub Discussions** provides a space for open conversations around your project. It's an ideal platform for community engagement, support, and collaboration. Discussions can help foster a sense of community around your project and provide a space for users and contributors to ask questions and share ideas.
 
+### Gists
+
+**Gists** are a handy way to share code snippets, notes, and other text-based content. Gists can be public or private and are an excellent resource for sharing code examples, troubleshooting steps, or collaborating on small projects.
+
 
 ----------
 
 
 
-
-
-
-
-
-### Gists
-
-**Gists** are a handy way to share code snippets, notes, and other text-based content. Gists can be public or private and are an excellent resource for sharing code examples, troubleshooting steps, or collaborating on small projects.
 
 ### Security Features
 
