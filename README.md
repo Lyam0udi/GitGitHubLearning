@@ -259,4 +259,11 @@ Key concepts of rebasing include:
 - **Interactive Rebasing:** With interactive rebasing, you can modify, squash, or reorganize commits to create a clean and meaningful commit history.
 - **Rebasing vs. Merging:** Understand when to use rebasing and when to use merging to maintain a coherent project history.
 
+### Cherry-Picking
+
+**Cherry-picking** is the process of selecting and applying specific commits from one branch to another. This technique is handy when you want to pick and choose specific changes without merging an entire branch.
+
+Key points to explore:
+- **Selecting Commits:** Learn how to identify and choose the commits you want to cherry-pick into another branch.
+- **Applying Commits:** Apply selected commits to your current branch while maintaining the commit message and changes.
 
