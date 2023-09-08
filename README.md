@@ -389,4 +389,10 @@ Creating meaningful and well-structured commits is crucial for maintaining a cle
 - **Use Imperative Mood:** Write commit messages in the imperative mood, e.g., "Add feature" rather than "Added feature."
 - **Reference Issues:** If your commit relates to an issue or a task, reference it in the commit message, e.g., "Fixes #123" or "Closes #456."
 
+### Branch Management
 
+Effective branch management ensures a well-organized codebase and smooth collaboration:
+
+- **Clear Branch Naming:** Use clear and descriptive branch names that reflect the purpose of the branch, such as "feature/add-authentication" or "bugfix/fix-broken-link."
+- **Delete Stale Branches:** Remove branches that are no longer in use to keep your repository tidy.
+- **Pull Regularly:** Frequently pull changes from the main branch into your feature branches to stay up-to-date and minimize merge conflicts.
