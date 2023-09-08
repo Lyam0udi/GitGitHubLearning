@@ -396,3 +396,16 @@ Effective branch management ensures a well-organized codebase and smooth collabo
 - **Clear Branch Naming:** Use clear and descriptive branch names that reflect the purpose of the branch, such as "feature/add-authentication" or "bugfix/fix-broken-link."
 - **Delete Stale Branches:** Remove branches that are no longer in use to keep your repository tidy.
 - **Pull Regularly:** Frequently pull changes from the main branch into your feature branches to stay up-to-date and minimize merge conflicts.
+
+### Code Reviews
+
+Code reviews are essential for maintaining code quality and fostering collaboration:
+
+- **Timely Reviews:** Respond to pull requests promptly to keep the development process flowing smoothly.
+
+- **Constructive Feedback:** Provide constructive and specific feedback in your code reviews, focusing on improving code quality.
+
+- **Leverage Review Tools:** Use GitHub's built-in review tools, such as comments and inline suggestions, to streamline the review process.
+
+
+
