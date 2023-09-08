@@ -407,5 +407,15 @@ Code reviews are essential for maintaining code quality and fostering collaborat
 
 - **Leverage Review Tools:** Use GitHub's built-in review tools, such as comments and inline suggestions, to streamline the review process.
 
+### Documentation
+
+Comprehensive documentation is key to helping team members understand your project:
+
+- **README Files:** Include a detailed README file in your repository with information on how to set up, use, and contribute to your project.
+
+- **Code Comments:** Add comments within your code to explain complex logic or provide context.
+
+- **Wiki Pages:** Utilize GitHub's Wiki feature for additional project documentation.
+
 
 
