@@ -437,3 +437,12 @@ Prioritize security to protect your code and user data:
 
 - **Stay Informed:** Keep up-to-date with security alerts and patch vulnerabilities promptly.
 
+### Team Collaboration
+
+Collaboration is the core of GitHub, and effective teamwork is essential:
+
+- **Communication:** Foster clear communication within your team through discussions, issue comments, and chat platforms.
+
+- **Pull Request Etiquette:** Establish pull request guidelines and etiquette to streamline the review and merge process.
+
+- **Code of Conduct:** Adopt a code of conduct to promote a welcoming and inclusive environment for contributors.
