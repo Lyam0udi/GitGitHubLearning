@@ -496,4 +496,8 @@ Collaboration is a key aspect of software development. GitHub provides tools and
 
 - **Pull Requests:** Encourage your team to submit pull requests for code review and integration. Reviewing and merging code changes are essential skills.
 
+### GitHub Learning Labs
+
+GitHub offers a resource called **GitHub Learning Labs** where you can find interactive, hands-on tutorials on various Git and GitHub topics. These labs provide a structured way to practice and learn by doing.
+
 
