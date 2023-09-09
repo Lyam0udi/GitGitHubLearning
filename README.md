@@ -70,7 +70,7 @@ In this course, you will not only delve deep into the fundamental concepts of Gi
 </div>
 
 ## Installation and Setup
-
+ 
 Before you dive into the world of Git and GitHub, you need to set up your environment. This section will guide you through the installation process and the initial setup steps.
 
 ### Step 1: Install Git
