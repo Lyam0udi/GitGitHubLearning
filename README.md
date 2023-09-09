@@ -510,5 +510,13 @@ As you gain confidence, consider starting or contributing to real-world projects
 
 - **Hackathons and Challenges:** Participate in hackathons and coding challenges. These events often provide opportunities to collaborate and compete.
 
+### Version Control for Documents
+
+Git and GitHub are not limited to code. You can also use them for version control of documents, including:
+
+- **Technical Documentation:** Write and maintain technical documentation for your projects using Markdown. Host it on GitHub for easy updates.
+
+- **Research Papers:** Collaborate on research papers with colleagues, tracking changes and revisions using Git.
+
 
 
