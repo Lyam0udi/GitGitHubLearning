@@ -49,11 +49,11 @@ Welcome to the **"Git and GitHub Learning Journey"**! In this comprehensive cour
 
 ### What is Git?
 
-**Git** is a distributed version control system that helps developers **track changes** in their codebase over time. It allows you to **create snapshots** of your project, making it easy to **collaborate with others**, **manage different versions**, and seamlessly **handle code changes**. Git is primarily a command-line tool that runs locally on your computer.
+**Git** is a **distributed version control system** that helps developers **track changes** in their codebase over time. It allows you to **create snapshots** of your project, making it easy to **collaborate with others**, **manage different versions**, and seamlessly **handle code changes**. Git is primarily a command-line tool that runs locally on your computer.
 
 ### What is GitHub?
 
-**GitHub**, on the other hand, is a web-based platform built around Git. It provides a collaborative environment for developers to host, share, and collaborate on projects. GitHub offers features such as repositories, pull requests, issues, and more, making it a hub for software development teams and open-source communities to work together effectively.
+**GitHub**, on the other hand, is a **web-based platform** built around Git. It provides a collaborative environment for developers to **host, share, and collaborate** on projects. GitHub offers features such as **repositories, pull requests, issues**, and more, making it a hub for software development teams and open-source communities to work together effectively.
 
 ### What is the Difference Between Git and GitHub?
 
