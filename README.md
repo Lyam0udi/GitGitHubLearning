@@ -644,15 +644,37 @@ Preparing for interviews related to Git and GitHub? Here's a collection of commo
 
 ### Git Basics
 
-1. What is Git, and how does it differ from other version control systems?
+1. **What is Git, and how does it differ from other version control systems?**
 
-2. Explain the fundamental components of Git: Working Directory, Staging Area, Commit History, and Remote Repository.
+   Git is a distributed version control system designed for tracking changes in source code during software development. Unlike centralized version control systems, such as SVN, Git stores a complete history of the project on every developer's local machine. This decentralized approach allows for offline work, faster branching and merging, and better collaboration among team members.
 
-3. What are the key benefits of using Git for version control?
+2. **Explain the fundamental components of Git: Working Directory, Staging Area, Commit History, and Remote Repository.**
 
-4. Describe the difference between a Git commit and a Git push.
+   - **Working Directory**: It is the local directory on your computer where you create, edit, and organize your project files.
+   - **Staging Area (Index)**: It's an intermediate area where you prepare changes before committing them. You use `git add` to stage changes from the working directory.
+   - **Commit History (Repository)**: This is the complete record of all commits made to the project. Each commit represents a snapshot of the project at a specific point in time.
+   - **Remote Repository**: This is a centralized repository hosted on a server, often on platforms like GitHub or GitLab. It allows collaboration among team members by providing a common place to push and pull changes.
 
-5. How can you undo the last Git commit without losing your changes?
+3. **What are the key benefits of using Git for version control?**
+
+   - **Distributed Development**: Git allows developers to work independently and merge changes easily.
+   - **Version Tracking**: It provides a detailed history of changes, making it easy to track and understand project evolution.
+   - **Branching and Merging**: Git supports efficient branching and merging, enabling parallel development and feature isolation.
+   - **Security**: Each commit is checksummed, ensuring data integrity. Access control can be managed on remote repositories.
+   - **Collaboration**: Developers can collaborate seamlessly, contributing to the same project from different locations.
+
+4. **Describe the difference between a Git commit and a Git push.**
+
+   - **Git Commit**: It records changes made to your project in your local repository. It creates a new snapshot with a unique commit ID.
+   - **Git Push**: It sends your local commits to a remote repository, making them available to others. Pushing updates the remote repository with your changes.
+
+5. **How can you undo the last Git commit without losing your changes?**
+
+   You can undo the last Git commit without losing changes by using the following command:
+
+   ```bash
+   git reset HEAD~1
+
 
 ### Branching and Merging
 
