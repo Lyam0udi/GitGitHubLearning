@@ -774,15 +774,35 @@ Preparing for interviews related to Git and GitHub? Here's a collection of commo
 
 ### GitHub Features
 
-21. How can you use GitHub Actions to automate your CI/CD pipeline?
+21. **How can you use GitHub Actions to automate your CI/CD pipeline?**
 
-22. What are GitHub Discussions, and how can they benefit a project?
+    GitHub Actions is a feature that allows you to automate workflows, including continuous integration and continuous deployment (CI/CD) pipelines. You can use GitHub Actions by creating workflows defined in YAML files within your repository. These workflows can run various tasks, such as building, testing, and deploying your code whenever there are changes. It helps streamline development processes and ensures code quality.
 
-23. Explain the purpose of GitHub Projects and how they help manage tasks.
+22. **What are GitHub Discussions, and how can they benefit a project?**
 
-24. What is GitHub Gist, and how can you use it to share code snippets?
+    GitHub Discussions is a feature that provides a space for open and organized conversations about a project. It benefits a project by:
+    - Offering a dedicated forum for users, contributors, and maintainers to discuss ideas, issues, and questions.
+    - Centralizing discussions, reducing clutter in issue comments.
+    - Encouraging community engagement and collaboration.
 
-25. How does GitHub Pages work, and what is it commonly used for?
+23. **Explain the purpose of GitHub Projects and how they help manage tasks.**
+
+    GitHub Projects is a tool for managing and organizing tasks and issues within a repository. It helps manage tasks by allowing you to create project boards, add cards for tasks, and move them through custom-defined columns (e.g., "To Do," "In Progress," "Done"). It provides a visual way to track progress, assign tasks, and prioritize work, making it easier to coordinate and collaborate on projects.
+
+24. **What is GitHub Gist, and how can you use it to share code snippets?**
+
+    GitHub Gist is a service for sharing code snippets, notes, and other short pieces of text. You can use GitHub Gist to:
+    - Share code examples and snippets with others by creating gists.
+    - Embed gists into documentation, blog posts, or other web content.
+    - Collaborate on code snippets by allowing others to fork and make their own versions.
+
+25. **How does GitHub Pages work, and what is it commonly used for?**
+
+    GitHub Pages is a web hosting service provided by GitHub for publishing static websites directly from your GitHub repository. It works by serving the contents of a specified branch (usually the "gh-pages" branch or the "docs" folder) as a live website. GitHub Pages is commonly used for:
+    - Hosting personal or project websites.
+    - Creating documentation sites for open-source projects.
+    - Sharing portfolio or resume websites.
+
 
 ### Best Practices
 
