@@ -688,17 +688,34 @@ Preparing for interviews related to Git and GitHub? Here's a collection of commo
 
 10. How do Git rebase and Git merge differ, and when would you use each?
 
-### GitHub Collaboration
+### Branching and Merging
 
-11. What is a pull request on GitHub, and what is its purpose?
+6. **What is a Git branch, and why is it important in collaborative development?**
 
-12. Describe the steps involved in creating and merging a pull request on GitHub.
+   A Git branch is a separate line of development within a Git repository. Branches allow multiple developers to work on different features or bug fixes simultaneously without interfering with each other. Branches are essential in collaborative development because they enable isolation of work, making it easier to manage and merge changes.
 
-13. How do you handle feedback and comments on a pull request?
+7. **Explain the process of creating a new Git branch and switching between branches.**
 
-14. What is a Git fork, and why might you fork a repository on GitHub?
+   - To create a new branch: `git checkout -b new-branch-name`
+   - To switch between branches: `git checkout branch-name`
 
-15. Explain the difference between a Git clone and a Git fork.
+8. **What is a Git merge, and how does it work?**
+
+   A Git merge is the process of combining changes from one branch into another. It creates a new commit that incorporates the changes from the source branch into the target branch. Git automatically handles the merging of changes, and if conflicts arise, they need to be resolved manually.
+
+9. **What are merge conflicts in Git, and how do you resolve them?**
+
+   Merge conflicts occur when Git is unable to automatically merge changes from different branches due to conflicting edits in the same part of a file. To resolve merge conflicts, you need to:
+
+   - Open the conflicted file(s) and manually edit to resolve conflicts.
+   - Use `git add` to stage the resolved files.
+   - Complete the merge by running `git commit`.
+
+10. **How do Git rebase and Git merge differ, and when would you use each?**
+
+    - **Git Merge**: Combines changes from one branch into another by creating a new merge commit. It preserves the commit history of both branches. Use merge when you want to maintain a clear history of when and where changes were merged.
+    
+    - **Git Rebase**: Reapplies the changes from one branch onto another, creating a linear history. It doesn't create merge commits. Use rebase when you want a cleaner, more linear commit history, especially for feature branches. However, avoid rebasing branches that others are working on to prevent confusion.
 
 ### Git Workflow
 
