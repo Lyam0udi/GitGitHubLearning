@@ -675,19 +675,6 @@ Preparing for interviews related to Git and GitHub? Here's a collection of commo
    ```bash
    git reset HEAD~1
 
-
-### Branching and Merging
-
-6. What is a Git branch, and why is it important in collaborative development?
-
-7. Explain the process of creating a new Git branch and switching between branches.
-
-8. What is a Git merge, and how does it work?
-
-9. What are merge conflicts in Git, and how do you resolve them?
-
-10. How do Git rebase and Git merge differ, and when would you use each?
-
 ### Branching and Merging
 
 6. **What is a Git branch, and why is it important in collaborative development?**
@@ -716,6 +703,42 @@ Preparing for interviews related to Git and GitHub? Here's a collection of commo
     - **Git Merge**: Combines changes from one branch into another by creating a new merge commit. It preserves the commit history of both branches. Use merge when you want to maintain a clear history of when and where changes were merged.
     
     - **Git Rebase**: Reapplies the changes from one branch onto another, creating a linear history. It doesn't create merge commits. Use rebase when you want a cleaner, more linear commit history, especially for feature branches. However, avoid rebasing branches that others are working on to prevent confusion.
+
+### GitHub Collaboration
+
+11. **What is a pull request on GitHub, and what is its purpose?**
+
+    A pull request (PR) on GitHub is a way to propose changes to a repository hosted on the platform. It serves as a request to the repository's owners to review and merge your changes into the main branch (often called the "base" branch). The purpose of a pull request is to facilitate collaboration, code review, and discussion around proposed changes. It allows multiple contributors to work on a project concurrently and maintain a structured workflow for merging code.
+
+12. **Describe the steps involved in creating and merging a pull request on GitHub.**
+
+    - Create a branch: Start by creating a new branch from the base branch where you want to make changes.
+    - Make changes: Commit your changes to the branch and push them to your fork or repository.
+    - Create the pull request: Go to the repository on GitHub and click on "New Pull Request." Choose the base and compare branches, provide a title and description, and then create the pull request.
+    - Review and discussion: Collaborators and reviewers can review your changes, leave comments, and discuss the proposed changes.
+    - Address feedback: Make necessary changes based on feedback and comments.
+    - Merge the pull request: Once the changes are approved, the pull request can be merged into the base branch.
+
+13. **How do you handle feedback and comments on a pull request?**
+
+    Handling feedback and comments on a pull request involves:
+    - Listening and considering feedback.
+    - Making necessary changes and commits.
+    - Responding to comments to provide clarification or updates.
+    - Continuously collaborating with reviewers until the changes are approved.
+
+14. **What is a Git fork, and why might you fork a repository on GitHub?**
+
+    A Git fork is a copy of a repository in a user's GitHub account. Forking a repository allows you to work on a project independently without directly affecting the original repository. You might fork a repository for several reasons, including:
+    - Contributing to open-source projects by making your changes and proposing pull requests.
+    - Experimenting with changes to an existing project.
+    - Creating a personal copy of a repository to work on your own modifications.
+
+15. **Explain the difference between a Git clone and a Git fork.**
+
+    - **Git Clone**: Cloning a repository creates a local copy of the repository on your local machine. It is used primarily for getting a working copy of a repository to work on, and it connects directly to the original repository.
+    
+    - **Git Fork**: Forking a repository on GitHub creates a copy of the repository under your GitHub account. It allows you to have your own remote copy of the repository, which you can modify and push to independently. Forking is often used for contributing to open-source projects or for personal experimentation.
 
 ### Git Workflow
 
