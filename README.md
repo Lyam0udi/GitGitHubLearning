@@ -99,8 +99,8 @@ Git is the heart of version control, and you'll need it to manage your code. Fol
 
 Once Git is installed, you'll need to configure it with your name and email address. Open your terminal or command prompt and run the following commands, replacing `Your Name` and `your.email@example.com` with your name and email:
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+1. ```git config --global user.name "Your Name"```
+2. ```git config --global user.email "your.email@example.com"```
 
 
 These settings are essential as they'll be used for every Git commit you make.
