@@ -137,7 +137,7 @@ In this section, we will delve into the fundamental architecture of Git and unde
 
 3. **Commit History (Repository):** The commit history is a chronological record of all the changes made to your project. Each commit represents a snapshot of the project at a specific point in time. Commits are organized in a tree-like structure, enabling you to navigate through the project's history.
 
-4. **The Remote Server:** In collaborative development scenarios, Git repositories can be hosted on remote servers like GitHub, GitLab, or Bitbucket. Developers can push and pull changes between their local repositories and the remote server to collaborate with team members.
+4. **The Remote Server:** In collaborative development scenarios, Git repositories can be hosted on remote servers like **GitHub, GitLab, or Bitbucket**. Developers can push and pull changes between their local repositories and the remote server to collaborate with team members.
 
 ![GitArchitecture](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/9cad4427-1a9e-47be-b821-a1ea5914b907)
 
