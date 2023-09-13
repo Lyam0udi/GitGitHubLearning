@@ -78,23 +78,20 @@ Git is the heart of version control, and you'll need it to manage your code. Fol
 1. **Windows:**
    - Download the Git for Windows installer from the [Git official website](https://git-scm.com/download/win).
    - Run the downloaded installer and follow the installation wizard's instructions. Ensure you select the default options unless you have specific preferences.
-
 2. **macOS:**
    - macOS comes with Git pre-installed. Open the Terminal app and type `git --version` to verify that Git is installed. If it's not installed, you'll be prompted to install it.
-
 3. **Linux (Ubuntu/Debian):**
    - Open the terminal and run the following command:
      ```
      sudo apt update
      sudo apt install git
      ```
-
 4. **Linux (Fedora):**
    - Open the terminal and run the following command:
      ```
      sudo dnf install git
      ```
-
+     
 ### Step 2: Configure Git
 
 Once Git is installed, you'll need to configure it with your name and email address. Open your terminal or command prompt and run the following commands, replacing `Your Name` and `your.email@example.com` with your name and email:
