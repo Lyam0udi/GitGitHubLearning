@@ -502,9 +502,7 @@ Collaboration is the core of GitHub, and effective teamwork is essential:
 Optimize your Git workflow for improved efficiency:
 
 - **Shallow Clones:** Use shallow clones to reduce repository size and speed up cloning.
-
 - **Git LFS:** Employ Git Large File Storage (LFS) for managing large binary files efficiently.
-
 - **Caching:** Utilize caching mechanisms to speed up CI/CD processes.
 
 ### Regular Maintenance
