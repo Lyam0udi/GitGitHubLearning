@@ -922,3 +922,9 @@ Remember that learning is an ongoing process, and there's always more to explore
 Stay connected with the Git and GitHub community, keep learning, and never stop improving your skills. Your passion for software development and your commitment to mastering Git and GitHub will open doors to exciting opportunities and projects in the world of technology.
 
 Thank you for joining us on this learning journey. We wish you continued success in all your coding endeavors!
+
+#### Author
+## Author
+
+- [Ilias]
+  - GitHub: [Lyam0udi][(https://github.com/yourusername)](https://github.com/Lyam0udi)https://github.com/Lyam0udi
