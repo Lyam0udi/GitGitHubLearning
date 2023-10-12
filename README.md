@@ -923,6 +923,7 @@ Stay connected with the Git and GitHub community, keep learning, and never stop 
 
 Thank you for joining us on this learning journey. We wish you continued success in all your coding endeavors!
 
+
 #### Author
 
 - [Lyam0udi]
