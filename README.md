@@ -1,6 +1,5 @@
 # Git and GitHub Learning Journey
 
-
 Welcome to the "Git and GitHub Learning Journey" README! This document serves as a comprehensive course guide and progress tracker for your learning adventure in the world of Git and GitHub.
 ![git-githubLogos](https://github.com/Lyam0udi/GitGitHubLearning/assets/67929106/f10dd5c9-aaf3-4200-b464-c1e936c5739c)
 
